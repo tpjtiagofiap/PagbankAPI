@@ -1,0 +1,6 @@
+@PagbankAPI_HostAddress = http://localhost:5277
+
+GET {{PagbankAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
